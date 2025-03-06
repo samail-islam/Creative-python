@@ -1,4 +1,4 @@
-def bintodec(binary):
+ def bintodec(binary):
   index = 0
   calculations = []
   binary = binary[::-1]
