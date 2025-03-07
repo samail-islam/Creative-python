@@ -8,7 +8,7 @@ def binaryencoder(words):
        b = bin(a+1)
        en = en + b + "."
      elif char == " " :
-       en = en + " "
+       en = en + "."
      elif char == "." :
        en = en + "|"
      else :
