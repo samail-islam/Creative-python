@@ -14,17 +14,17 @@ If you're looking for a repository to make your first contribution, this would b
 
 <b>1.</b> Fork this repository using the fork button. <br>
 
-<b>2.</b> Add your creative project with description.<br>
+<b>2.</b> Add your creative project with description and commit changes. <br>
 
-<b>3.</b> Commit changes in a new branch.
+<b>3.</b> Come to this repository and go to pull requests, click the ``new`` button.
 
-<b>4.</b> Come to this repository and go to pull requests, click the ``new`` button.
+<b>4.</b> Then click `compare across forks` link above. 
 
-<b>5.</b> Compare your branch and this main branch.
+<b>5.</b> Select this repository as `base` and your forked repository as `head` to compare.
 
-<b>6.</b> Make a pull request with a comment containing your project details. <br><br>
+<b>6.</b> Create a pull request with a comment containing your project details. <br><br>
 
-> if you want to do this using git from your local machine, then clone your forked repository using ``git clone`` command. Then add your project and push changes to github. Then follow the above 4-5 steps.
+> if you want to do this using git from your local machine, then clone your forked repository using ``git clone`` command. Then add your project and push changes to github. Then follow the 4-6 steps above.
 
-If you're a newcomer or an intermediate python programmer looking for project to contribute, contributing to this repository would be a great start. I will check out and merge your commit as soon as possible to the main branch.
+If you're a newcomer or an intermediate python programmer looking for project to contribute, contributing to this repository would be a great start.
 
