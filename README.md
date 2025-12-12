@@ -26,5 +26,3 @@ If you're looking for a repository to make your first contribution, this would b
 
 > if you want to do this using git from your local machine, then clone your forked repository using ``git clone`` command. Then add your project and push changes to github. Then come to your forked repo on github, you would find a ``compare and pull request`` button. Use that and then follow the 6th step above.
 
-If you're a newcomer or an intermediate python programmer looking for project to contribute, contributing to this repository would be a great start.
-
